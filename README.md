@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b0?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rpizzolato/)](https://www.linkedin.com/in/rpizzolato/)
+[![Github](https://img.shields.io/badge/-Github-24292e?logo=Github&logoColor=white&link=https://github.com/rpizzolato)](https://github.com/rpizzolato)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ropizzolato)](https://twitter.com/ropizzolato)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-4ca143?labelColor=4ca143&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/154720/rodrigo)](https://pt.stackoverflow.com/users/154720/rodrigo)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-f48024?labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10682983/rodrigo)](https://stackoverflow.com/users/10682983/rodrigo)
