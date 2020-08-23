@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá! 👋
+---
+
+Me chamo Rodrigo, atualmente trabalho com Suporte Técnico na Prefeitura de Piracicaba/SP. Sou Bacharel em Ciência da Computação, na Faculdade Anhanguera de Piracicaba/SP, formando em 2012. Atualmente estou tentado mudar o foco, sair da área de Técnico e começar no Desenvolvimento, para isso tenho estudado algumas tecnologias por conta, por meio de cursos on-line. Tecnologias essas como JavaScript, React e React-Native, Docker, etc. Ah, também tenho estudado um pouco sobre Desenvolvimento Mobile Android utilizando o Kotlin e Cloud Computing, como a IBM Cloud, Microsoft Azure e um pouco de AWS. Sinta-se a vontade para ver os repositórios e me criticar, alias estou aprendendo Git também, então tenha um pouco de paciência comigo :)
+
+---
 
 <!--
 **rpizzolato/rpizzolato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
