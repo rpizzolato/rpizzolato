@@ -5,6 +5,8 @@ Me chamo Rodrigo, atualmente trabalho com Suporte Técnico na Prefeitura de Pira
 
 ---
 
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpizzolato&show_icons=true)](https://github.com/rpizzolato)
+
 <!--
 **rpizzolato/rpizzolato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rpizzolato" alt="rpizzolato" /> </p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b0?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rpizzolato/)](https://www.linkedin.com/in/rpizzolato/)
 [![Github](https://img.shields.io/badge/-Github-24292e?logo=Github&logoColor=white&link=https://github.com/rpizzolato)](https://github.com/rpizzolato)
