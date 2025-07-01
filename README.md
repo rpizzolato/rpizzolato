@@ -1,7 +1,7 @@
 ### Olá! 👋
 ---
 
-Me chamo Rodrigo, atualmente trabalho com Suporte Técnico na Prefeitura de Piracicaba/SP. Sou Bacharel em Ciência da Computação, na Faculdade Anhanguera de Piracicaba/SP, formando em 2012. Atualmente estou tentado mudar o foco, sair da área de Técnico e começar no Desenvolvimento, para isso tenho estudado algumas tecnologias por conta, por meio de cursos on-line. Tecnologias essas como JavaScript, React e React-Native, Docker, etc. Ah, também tenho estudado um pouco sobre Desenvolvimento Mobile Android utilizando o Kotlin e Cloud Computing, como a IBM Cloud, Microsoft Azure e um pouco de AWS. Sinta-se a vontade para ver os repositórios e me criticar, alias estou aprendendo Git também, então tenha um pouco de paciência comigo :)
+Meu nome é Rodrigo, atualmente trabalho como Analista de Informática I na Unesp. Sou Bacharel em Ciência da Computação, na Faculdade Anhanguera de Piracicaba/SP, formando em 2012. Atualmente estou estudando um pouco de Linux e Redes de Computadores em Geral, gosto de programação também, mas ultimamente tenho dado menos atenção do que gostaria a essa área. Tecnologias como JavaScript, React e React-Native, Docker chamam minha atenção, assim como Desenvolvimento Mobile Android utilizando o Kotlin e Cloud Computing, como a Microsoft Azure e um pouco de AWS. Estou atualmente em um dilema tentando aprender Git também.
 
 ---
 
